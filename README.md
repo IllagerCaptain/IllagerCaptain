@@ -1,2 +1,2 @@
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=illagercaptain&show_icons=true&theme=transparent)
-![](https://github-readme-stats.vercel.app/api?username=illagercaptain&show_icons=true&theme=transparent)
+![](https://github-stats-extended.vercel.app/api/top-langs/?username=illagercaptain&include_all_commits=true&number_format=long&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&show=contributions,all_time_contribs,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)
+![](https://github-stats-extended.vercel.app/api?username=illagercaptain&include_all_commits=true&number_format=long&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&show=contributions,all_time_contribs,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)
